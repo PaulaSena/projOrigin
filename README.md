@@ -16,7 +16,7 @@
    
    
 
-![Primeira tela](https://github.com/PaulaSena/projOrigin/blob/main/GIF-210625_154431.gif"Ferramentas Utilizadas")
+![Primeira tela]( https://github.com/PaulaSena/projOrigin/blob/main/GIF-210625_154431.gif?raw=true "Ferramentas Utilizadas")
 
  
 
