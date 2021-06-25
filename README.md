@@ -16,7 +16,7 @@
    
    
 
-![Primeira tela](https://github.com/PaulaSena/projOrigin/blob/ea624fc6527e747445f7ceb83bf1cbc5a0b4ace3/GIF-210625_130500.gif?raw=true "Home")
+![Primeira tela](https://github.com/PaulaSena/projOrigin/blob/main/GIF-210625_154431.gif"Ferramentas Utilizadas")
 
  
 
@@ -29,7 +29,7 @@ Campo
 -  Depoimentos
 -  Contatos
 
-![Primeira tela](https://github.com/PaulaSena/projOrigin/blob/ea624fc6527e747445f7ceb83bf1cbc5a0b4ace3/GIF-210625_130500.gif?raw=true "Home")
+![Segunda tela](https://github.com/PaulaSena/projOrigin/blob/ea624fc6527e747445f7ceb83bf1cbc5a0b4ace3/GIF-210625_130500.gif?raw=true "Home")
 
 ## Conteúdo a ser adicionado ao projeto.
 
