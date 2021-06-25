@@ -1,9 +1,9 @@
-# projOrigin
+# Projeto Origin 
 
 
-# NLW 6- Desenvolvimento de um Site OnePage.  
+### NLW 6- Desenvolvimento de um Site OnePage.  
 
-# Neste projeto foi utilizado.
+### Neste projeto foi utilizado.
 - Html 
 - Css 
 - Javascript
